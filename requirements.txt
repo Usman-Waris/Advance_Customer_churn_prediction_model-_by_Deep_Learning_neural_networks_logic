@@ -4,4 +4,3 @@ numpy
 tensorflow-cpu
 scikit-learn
 thefuzz
-python-Levenshtein
